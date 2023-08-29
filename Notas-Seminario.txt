@@ -8,3 +8,4 @@ Final: "Propuesta de solución energética sostenible: Sistema Fotovoltaico para
 
 --------------------------------------
 
+GPS casa: 2.912080, -75.275418
