@@ -1,0 +1,22 @@
+Latitude (decimal degrees):	2.912
+Longitude (decimal degrees):	-75.275
+Radiation database:	PVGIS-ERA5
+Optimal slope angle (deg.):	4
+
+year		month		H(i_opt)_m
+2020		Jan		183.44
+2020		Feb		170.18
+2020		Mar		171.4
+2020		Apr		148.76
+2020		May		126.98
+2020		Jun		131.21
+2020		Jul		139.98
+2020		Aug		156.36
+2020		Sep		166.34
+2020		Oct		158.84
+2020		Nov		152.21
+2020		Dec		162.67
+
+H(i_opt)_m: Irradiation on optimally inclined plane (kWh/m2/mo)
+
+PVGIS (c) European Union, 2001-2023

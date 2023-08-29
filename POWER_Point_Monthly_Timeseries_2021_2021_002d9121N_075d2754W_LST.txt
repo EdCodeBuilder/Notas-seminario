@@ -1,0 +1,11 @@
+-BEGIN HEADER-
+NASA/POWER CERES/MERRA2 Native Resolution Monthly and Annual 
+Dates (month/day/year): 01/01/2021 through 12/31/2021 
+Location: Latitude  2.9121   Longitude -75.2754 
+Elevation from MERRA-2: Average for 0.5 x 0.625 degree lat/lon region = 1402.97 meters
+The value for missing source data that cannot be computed or is outside of the sources availability range: -999 
+Parameter(s): 
+ALLSKY_SFC_SW_DWN     CERES SYN1deg All Sky Surface Shortwave Downward Irradiance (kW-hr/m^2/day) 
+-END HEADER-
+PARAMETER         YEAR    JAN  FEB  MAR  APR  MAY  JUN  JUL  AUG  SEP  OCT  NOV  DEC  ANN
+ALLSKY_SFC_SW_DWN 2021   4.72 4.03 3.77 4.39 4.24 4.23 4.00 4.09 4.55 4.70 4.43 4.46 4.30
