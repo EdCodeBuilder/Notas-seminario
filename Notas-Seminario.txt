@@ -8,4 +8,233 @@ Final: "Propuesta de solución energética sostenible: Sistema Fotovoltaico para
 
 --------------------------------------
 
-GPS casa: 2.912080, -75.275418
+GPS casa: 2.912076381146566, -75.2754155768075
+
+
+-------------------------------------------------------------------------------------------
+1-09-2023
+
+Se debe especificar la garantia de instalacion y de los componentes del sistema en el informe.
+
+
+-------------------------------------------------------------------------------------------
+2-09-2023
+
+Pregunta para salida: en caso de daño, que hacen con las partes dañadas?
+- Normalmente los mantenimientos se deben de hacer durante la noche.
+
+- Diagrama unifilar de un sistema fotovoltaico -> va en el informe.
+- Investigar sobre la planta solar las brisas.
+
+-------------------------------------------------------------------------------------------
+9-09-2023
+
+Normatividad de las EERR en colombia y sus desafíos.
+Fernand Diaz
+fernand.diaz@usco.edu.co
+
+- Evaluacion: revision de actividades.
+- Plantillas para el documento (propuesta)
+
+1. Generaludaddes del sector eléctrico Colombiano.
+"El año en el que se nos fueron las luses" - Revista region y gestion.
+- Ley 142 -> servicios publicos
+- Ley 143 -> sistema electrico colombiano, incentivos economicos.
+- Plan puebla-panama.
+
+Actividad: desarollar un mapa mental 
+
+EP_Actividad_1_MapaMentalSectorElectricoColombiano.pdf
+--------------------
+Si el sector eléctrico colombiano se categoriza en generación, transmisión, distribución y comercialización. ¿En qué categorías se desempeña EPM? Dame una respuesta concisa y precisa.
+--------------------
+Direccion, planeacion, operacion, control y vigilancia.
+Operacion: generación, transmisión y distribución.
+
+MinEnergia plantea la vision y las leyes -> la creg saca la regulacion -> los aspectos tecnicos especificos son competencia de la CNO.
+
+Generación distribuida.
+4 Niveles de linea de tension.
+--------------------
+sistema de transmision nacional (STN)
+sistema de transmision regional (STR)
+sistema de transmision local (STL)
+
+Caracteristicas del SIN: 
+    Número de agentes por actividad:
+        Comercialización -> 135
+        Distribución -> 38
+        Generación -> 104
+        Transporte -> 14
+    Subestaciones del SIN por agente operador:
+
+
+-------------------------------------------------------------------------------------------
+9-09-2023
+
+
+Grupo 6 Alexis, Mario, Eduardo
+
+300 kWh/mes - 
+
+13:00
+El problema de 2-sigma, El impacto de la tutoría uno-a-uno
+IA.
+
+IA -> HUMATA: para investigación.
+Estrategia: asignar un rol, proveer un contexto claro, establecimiento de reglas para lo que se espera que el sistema responda.
+
+Normatividad.
+---------------
+Actividad #4:
+
+Ley 1715 de 2014:
+- Objetivo: promover el desarrollo y utilizacion de fuentes no convencionales de energias.
+    - Promover el uso eficiente de la energia.
+- Fuentes no convencionales de energía.
+    - Prestacion de servicios publicos domiciliarios.
+    - Participacion en zonas no interconectadas.
+- Finalidad: Fomentar la invercion, investigacion y desarrollo.
+
+Ley 2099 de 2021:
+- 8 Capitulos: Dispocisiones generales, Hidrogeno verde y azul, incentivos a la inversion en proyectos de fuentes no convencionales de energia, reduccion de emisiones y cabptura de carbono, racionalizacion de tramites y promocion de proyectos energeticos, fomento a proyectos del sector energetico, institucionalidad en el sector de energia electrica, otras dispocisiones.
+
+Resolucion 319 del 05 de agosto de 2022:
+- ¿Cómo y que se debe hacer para acceder a la deduccion tributaria?
+- FNCE: fuentes no convencionales de energia, GEE: generacion de energia eficiente.
+- Requicitos y procedimientos para poder obtener la certificación por parte de la upme.
+
+Resolucion CREG 174 de 2021:
+- objetivos: establecer los criterios y procedimientos (regulacion) a fuentes de energias no convencionales para la conexion al SIN.
+- aplica: autogeneradores a pequeña escala (AGPE), Autogeneradores a gran escala (AGGE), Generador distribuido (GD).
+- Establece obligaciones y derechos.
+
+-------------------------------------------------------------------------------------------
+12-09-2023
+
+Modulo Juan Francisco Mendez Diaz - Mexicano
+
+- Solimetria:
+PVgis
+NasaPower
+Helio Scope
+
+
+- Sistemas de generación multimodo:
+
+20:22
+
+2.943058932675575, -75.30239924520292
+
+-------------------------------------------------------------------------------------------
+16-09-2023 2pm
+
+Sistema de información geografico (OR)
+
+Spard
+
+Slide:
+1. Entorno georeferenciado
+2. Identificar un transformador para conexion. detalles de disponibilidad.
+
+
+Ejemplo2:
+cod cuenta: 907118406
+
+
+Ejemplo3: 
+cod cuenta: 156136474
+
+Ejemplo4: 
+direccion edificio prohuila.
+
+Ejercicio2: realizar ejerciocio con el operador de red
+
+Fronius vs Huawei -> inversores con UI on line.
+
+Acuerdo CNO 1549 anexos
+
+-------------------------------------------------------------------------------------------
+17-09-2023 7am
+
+Desafíos tecnicos
+
+Dame los puntos clave en este texto:
+
+Comercializadores de energía plantean salidas al estrés financiero
+
+Asocodis expuso los riesgos que enfrenta el sector a causa de la actual situación de liquidez de las empresas comercializadoras. 
+La Asociación Colombiana de Distribuidores de Energía Eléctrica (Asocodis) y sus empresas agremiadas le expresaron al Ministerio de Minas y Energía y a la Comisión de Regulación de Energía y Gas (Creg) su preocupación con relación a la actual situación financiera de los comercializadores.
+A través de una carta dirigida al titular de la cartera de Energía, Omar Andrés Camacho, y al director de la Comisión de Regulación de Energía y Gas (Creg), José Fernando Prada, el gremio expuso los riesgos e impactos que se vislumbran en el panorama, así como algunas solicitudes y propuestas a tener en cuenta.
+Según explica Asocodis, el problema de liquidez que enfrentan las firmas comercializadoras de energía se ha acentuado a causa de las demoras y falta de medidas para mitigar el efecto de los saldos acumulados por la aplicación de la opción tarifaria, así como por otras deudas de entidades estatales, las cuales agravan la exigencia en el flujo de caja y generan insolvencia. A lo anterior se le suman otros factores como las condiciones del mercado, el Fenómeno de El Niño, la tendencia de los precios de la bolsa de energía, el incumplimiento y suspensión de suministro de energía de los contratos de las subastas de Fuentes No Convencionales de Energía Renovable (FNCER) y los niveles de oferta. En ese orden de ideas, la agremiación alerta sobre como la situación general no solo podría afectar la operación del sector y sus agentes, sino también las inversiones requeridas para mantener "un servicio confiable y de calidad".
+Cuáles podrían ser los efectos
+Entre los aspectos que se incluyen en la misiva, el gremio resalta que si bien la demanda ha venido asumiendo la remuneración del Cargo por Confiabilidad para garantizar energía en condiciones de hidrología crítica, aún persisten algunas inquietudes relacionadas con la entrada en operación de algunas plantas de generación por retrasos en proyectos. De la misma manera, hay dudas sobre los niveles de los embalses; la logística y disponibilidad oportuna del suministro y transporte de los combustibles necesarios para la operación de las plantas de generación térmicas; entre otros puntos. Así mismo, Asocodis expresó su preocupación por los precios que se han registrado en bolsa.
+De acuerdo con la entidad, a los últimos días de agosto se reportan valores por encima de los 800 $/kWh y, con la llegada del Fenómeno de El Niño, estos podrían mantenerse o incluso incrementarse en los próximos meses, dependiendo de la duración e intensidad de este evento climático. Por esa misma línea, se evidencian dificultades en aumentar la cobertura de la demanda regulada de las comercializadoras a causa de una estrechez entre la oferta y la demanda, cuyo comportamiento se ha visto impactado por las recientes olas de calor que se han presentado en el país.
+En lo que se refiere a la exposición a bolsa, la agremiación de distribuidores de energía destaca que el promedio para el 2023 y 2024 se sitúa en 21 %. No obstante, para ese mismo periodo hay empresas que reportan un nivel en o superior al 50 %. En ese sentido, el incumplimiento o suspensión de los contratos de suministro de energía de FNCER podría tener un efecto en la exposición de los agentes comercializadores, pues el no contar con estos proyectos implicaría un incremento de entre el 8 % y el 10 %, lo que a su vez acentuaría los problemas de solvencia de algunas firmas. Poner el freno a estos contratos también podría ocasionar incrementos de entre el 5 % y 6 % en el costo unitario de prestación del servicio (CU) de las empresas afiliadas a Asocodis, representando sobrecostos para los usuarios de cerca de 170 mil millones mensuales durante los meses siguientes y hasta diciembre próximo.
+Por otro lado, la entidad hizo énfasis en el tema de la opción tarifaria establecida en la Resolución CREG 012 de 2020, una medida que gran parte de los asociados al gremio vienen aplicando y que, sumado a las medidas del pacto tarifario, ha generado una situación de acumulación de saldos. "Si bien la opción tarifaria ha diferido el impacto del CU real a los usuarios, es importan tereiterar la compleja situación de liquidez de las empresas comercializadoras, la cual se concentra principalmente en los saldos no recuperados derivados de la aplicación de la opción tarifaria ($ 4,9 billones)", señala el texto. A grandes rasgos, el gremio informó que si no se plantean medidas para solucionar los problemas de liquidez, a diciembre del 2023 los saldos por recuperar podrían ser cercanos a 10,5 9 billones de pesos, que equivalen a 3,5 años de ingreso anual de los comercializadores. Además, teniendo en cuenta las situaciones anteriormente expuestas, alertan que el que las empresas no cuenten con los recursos necesarios para soportar los esfuerzos de caja que requieren, podría derivar en situaciones de inviabilidad e incumplimientos ante el administrador del mercado, ocasionando el inicio de procesos de limitación de suministro para sus usuarios.
+Recomendaciones del gremio
+Asocodis solicitó al Minergía y a la Creg tomar en consideración algunas de las propuestas de la agremiación para contribuir a proteger al mercado, a los usuarios y a las empresas, en materia de suministro, suficiencia financiera y precio. En ese contexto, la entidad destaca la urgencia de establecer y adoptar de soluciones estructurales para resolver las dificultades de liquidez de las empresas comercializadoras asociadas a los saldos acumulados por la aplicación de la opción tarifaria. En ese orden de ideas, las medidas permitirían evitar la presión al alza de las tarifas, las afectaciones a los usuarios, disminuir el riesgo e impacto en el flujo de caja de las empresas comercializadoras, y, en consecuencia, contrarrestar el riesgo sistémico para el sector.
+Así las cosas, propone una mayor flexibilidad en la aplicación de la opción tarifaria, de manera que sea voluntaria y opcional por cada comercializador. La medida también contempla que los porcentajes de variación (PV) puedan ser definidos por cada agente, por nivel de tensión, por sector o por estratos, según las condiciones y dinámica de su mercado, los compromisos regulatorios dentro de los que se encuentran los planes de inversión y la razonabilidad con la que requiera realizar la recuperación de los saldos. Asocodis también resalta la importancia de incorporar en el Presupuesto General de la Nación del 2024 la suma de 5,1 billones de pesos, monto requerido para cubrir las necesidades de subsidios de los usuarios hasta diciembre del próximo año. La entidad también sugiere que se explore la inclusión en el proyecto de ley del PGN 2024 algunas herramientas que permitan brindar liquidez a las empresas como: habilitar recursos de crédito y realizar prepagos de subsidios para aliviar la caja de las compañías. Además, de que se continúen realizando los respectivos anticipos según lo establece la normatividad.
+De igual forma, plantea establecer un mecanismo efectivo que permita a las empresas recuperar la deuda oficial y de usuarios de bienes constitucionalmente protegidos. Esto con el objetivo de contribuir a recuperar las deudas y que estas no continúen incrementándose de manera significativa. Ahora bien, con relación a las garantías y su optimización, la agremiación recomienda analizar los niveles actuales exigidos y explorar la posibilidad de optimizar los costos de estas garantías, pero sin poner en riesgo alguno la estabilidad del sector. 
+
+__________________________________
+
+Puntos clave en el texto:
+
+1. Preocupación de Asocodis y sus empresas agremiadas por la situación financiera de los comercializadores de energía.
+
+2. Problema de liquidez agravado por demoras y deudas estatales, lo que genera insolvencia.
+
+3. Factores que afectan al sector, como las condiciones del mercado, el Fenómeno de El Niño, precios de la bolsa de energía, incumplimiento de contratos de Fuentes No Convencionales de Energía Renovable (FNCER) y niveles de oferta.
+
+4. Impactos potenciales en la operación del sector, inversiones y calidad del servicio.
+
+5. Inquietudes sobre la demanda, retrasos en proyectos de generación, niveles de embalses, logística de combustibles y precios en bolsa.
+
+6. Exposición a bolsa y sus efectos en empresas comerciales y costos para los usuarios.
+
+7. Problemas derivados de la opción tarifaria y acumulación de saldos.
+
+8. Recomendaciones de Asocodis, incluyendo mayor flexibilidad en la opción tarifaria, financiamiento de subsidios, habilitación de recursos de crédito, recuperación de deudas y optimización de garantías.
+
+__________________________________
+
+Asocodis propone las siguientes recomendaciones en el texto:
+
+1. Mayor flexibilidad en la aplicación de la opción tarifaria, de manera que sea voluntaria y opcional para cada comercializador, con la posibilidad de definir porcentajes de variación por agente, nivel de tensión, sector o estratos, según las condiciones del mercado y los compromisos regulatorios.
+
+2. Incorporar en el Presupuesto General de la Nación del 2024 la suma de 5,1 billones de pesos para cubrir las necesidades de subsidios de los usuarios hasta diciembre del próximo año.
+
+3. Explorar la inclusión en el proyecto de ley del PGN 2024 de herramientas que brinden liquidez a las empresas, como habilitar recursos de crédito y realizar prepagos de subsidios.
+
+4. Establecer un mecanismo efectivo que permita a las empresas recuperar la deuda oficial y de usuarios de bienes constitucionalmente protegidos, con el objetivo de evitar un aumento significativo de las deudas.
+
+5. Analizar los niveles actuales de garantías exigidas y explorar la posibilidad de optimizar los costos de estas garantías sin comprometer la estabilidad del sector.
+
+__________________________________
+
+Aquí tienes algunos datos relevantes del texto:
+
+1. La Asociación Colombiana de Distribuidores de Energía Eléctrica (Asocodis) expuso preocupaciones al Ministerio de Minas y Energía y a la Comisión de Regulación de Energía y Gas (Creg).
+
+2. Se menciona un problema de liquidez en las empresas comercializadoras de energía, agravado por demoras y deudas estatales.
+
+3. Se destacan varios factores que afectan al sector energético, como las condiciones del mercado, el Fenómeno de El Niño, los precios de la bolsa de energía y los incumplimientos de contratos de Fuentes No Convencionales de Energía Renovable (FNCER).
+
+4. Se informa que los precios en bolsa llegaron a valores superiores a 800 $/kWh en agosto.
+
+5. Se menciona que algunas empresas reportan una exposición a bolsa del 50% o más para los años 2023 y 2024.
+
+6. Se advierte que el incumplimiento o la suspensión de contratos de suministro de FNCER podría tener un efecto negativo en la exposición de los agentes comercializadores.
+
+7. Se habla de una acumulación de saldos derivada de la opción tarifaria por un valor de 4,9 billones de pesos.
+
+8. Se advierte que si no se toman medidas para resolver los problemas de liquidez, los saldos acumulados podrían llegar a 10,59 billones de pesos para diciembre de 2023.
+
+9. Se alerta sobre la posible inviabilidad e incumplimiento de algunas empresas en caso de no contar con recursos para afrontar los compromisos de caja.
+
+10. Asocodis propone medidas como mayor flexibilidad en la opción tarifaria, financiamiento de subsidios, recuperación de deudas y optimización de garantías para abordar los problemas financieros del sector.
+
+__________________________________
+
+Microsoft visio, microsoft software swap -> reddit
